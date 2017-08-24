@@ -11,8 +11,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- *
- * @author Marvella Ortega
  */
 public class Conexion {
         static Statement stm = null;
